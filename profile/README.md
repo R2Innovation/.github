@@ -1,4 +1,4 @@
-### R² Innovative Software ###
+# R² Innovative Software #
 
 [[R2Soft.png]]
 
@@ -12,7 +12,7 @@ We believe in democratizing access to essential software tools by providing free
 
 ## 📦 Current Projects ##
 
-# QuantilyxDoc #
+### QuantilyxDoc ###
 QuantilyxDoc is a feature-rich document manipulation suite designed to replace proprietary PDF software.
 It offers advanced PDF editing, conversion, form creation, and secure document management—all within a libre software framework.
 
@@ -23,7 +23,7 @@ Features:
  - Digital signature support
  - Batch processing capabilities
 
-# heic_converter #
+### heic_converter ###
 
 Effortless HEIC/HEIF Image Conversion
 
