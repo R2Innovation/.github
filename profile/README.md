@@ -1,6 +1,6 @@
 # R² Innovative Software #
 
-![screenshot](../R2Soft.png)
+<img src="../R2Soft.png" width="300" alt="Logo">
 
 ## Where Innovation is the Key to Success ##
 Welcome to the official GitHub organization of R² Innovative Software! We are dedicated to developing powerful,
