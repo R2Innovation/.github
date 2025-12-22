@@ -1,6 +1,6 @@
 # R² Innovative Software #
 
-<img src="../R2Soft.png" width="300" alt="Logo">
+<img src="../R2Soft.png" width="200" alt="Logo">
 
 ## Where Innovation is the Key to Success ##
 Welcome to the official GitHub organization of R² Innovative Software! We are dedicated to developing powerful,
@@ -14,6 +14,8 @@ We believe in democratizing access to essential software tools by providing free
 
 ### QuantilyxDoc ###
 
+
+<img src="R2Innovation/QuantilyxDoc/blob/main/resources/images/xxx.png" width="200" alt="QuantilyxDoc Logo">
 ![screenshot](R2Innovation/QuantilyxDoc/blob/main/resources/images/xxx.png)
 
 QuantilyxDoc is a feature-rich document manipulation suite designed to replace proprietary PDF software.
