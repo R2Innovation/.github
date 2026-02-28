@@ -42,7 +42,7 @@ Features:
 
 ## 📜 License ##
 
-All software developed by R² Innovative Software is released under the GNU General Public License v3.0.
+All software developed by R² Innovative Software is released under the CC BY-NC-SA.
 This ensures that our software remains free and open-source, giving users the freedom to use, study, modify, and distribute it.
 
 ```text
