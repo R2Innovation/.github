@@ -1,4 +1,4 @@
-# R² Innovative Software #
+# R² Innovation Technologies #
 
 <img src="../images/R2Soft.png" width="200" alt="Logo">
 
